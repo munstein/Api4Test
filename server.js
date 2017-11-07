@@ -12,5 +12,3 @@ var routes = require('./api/routes/MainRoutes'); //importing route
 routes(app);
 
 app.listen(port);
-
-console.log('a|l|i|v|e|:' + port);
